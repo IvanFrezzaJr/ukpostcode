@@ -1,0 +1,2 @@
+FLASK_ENV=development
+FLASK_APP=uk_postcode/app.py
